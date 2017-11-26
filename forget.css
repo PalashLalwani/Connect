@@ -1,0 +1,90 @@
+body {
+    background-image: url("https://ecauk.com/files/2016/09/AdobeStock_1158416301.jpg");
+    background-color: #cccccc;
+    -webkit-background-size:cover;
+    -o-background-size:cover;
+    -moz-background-size:cover;
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+.container {
+	width: 45%;
+	height: 80%;
+	text-align: center;
+	background-color: rgba(52,73,94,0.7);
+	border-radius: 4px;
+	margin: 0 auto;
+	margin-top: 5%;
+	margin-bottom: 0px;
+}
+
+.container img {
+	width: 120px;
+	height: 120px;
+	margin-top: -60px;
+	margin-bottom: 30px;
+}
+
+input[type="text"], input[type="password"] {
+	height: 30px;
+	width: 60%;
+	font-size: 20px;
+	background-color: #fff;
+	padding-left: 40px;
+	margin: 15px;
+}
+
+.welcome {
+	margin: 0 auto;
+	color: white;
+	font-family: "Comic Sans MS";
+	font-size: 38px;
+}
+
+.button {
+    background-color: #006400; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	font-family: sans-serif;
+}
+
+p {
+	margin: 2px;
+	color: rgb(0,0,0);
+	font-size: 20px;
+
+}
+
+#option {
+    height: 35%;
+	width:38%;
+	font-size: 20px;
+	background-color: #fff;
+	padding-left: 40px;
+	margin: 1%;
+}
+
+.option {
+	margin: 0px;
+}
+
+.for {
+	color: white;
+}
